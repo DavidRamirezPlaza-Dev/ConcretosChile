@@ -2,6 +2,8 @@
 
 Aplicación móvil para el cálculo de concretos, basado en el estándar utilizado en Chile.
 
+Desarrollado para el proyecto de título técnico de Ingeniería en Informática de AIEP.
+
 Permite el cálculo de distintos tipos de concretos. Utiliza bases de datos locales con datos estáticos y una base de datos en nube (actualmente inactiva) para datos importantes.
 Permite la creación de cuentas, verificación (inactiva), guardar cálculos, editarlos, entre otras funciones.
 
